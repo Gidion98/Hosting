@@ -1,7 +1,6 @@
 streamlit
 numpy
 pandas==1.5.3
-scripy
 wordcloud
 nltk
 seaborn
