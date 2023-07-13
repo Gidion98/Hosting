@@ -9,4 +9,3 @@ matplotlib
 scikit-learn
 gensim
 pyLDAvis
-pickle
